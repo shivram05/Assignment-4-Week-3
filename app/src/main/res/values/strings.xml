@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Assignment-4-Week-3</string>
+    <string name="shopping">shopping</string>
+    <string name="create_account">Create Account</string>
+    <string name="your_name">Your name</string>
+    <string name="mobile_number_or_email">Mobile Number or email</string>
+    <string name="password">Password</string>
+    <string name="at_least_six_characters">At Least six characters</string>
+    <string name="re_enter_password">Re-enter Password</string>
+    <string name="continues">Continue</string>
+    <string name="sign_in">Sign in</string>
+    <string name="email">Email</string>
+    <string name="show_password">Show Password</string>
+    <string name="create_a_new_amazon_account">Create a new Amazon account</string>
+    <string name="need_to_amazon">Need to Amazon?</string>
+    <string name="successfully_login">Successfully Login</string>
+    <string name="username_or_password_doesn_t_match">Username or password Doesn\'t match</string>
+    <string name="password_doesn_t_match">Password Doesn\'t match</string>
+    <string name="shop_by_categories">Shop by Categories</string>
+    <string name="home_and_kitchen">home and Kitchen</string>
+    <string name="beauty_and_personal_care">Beauty and personal care</string>
+    <string name="pet_supplies">Pet Supplies</string>
+    <string name="toys_and_games">Toys and games</string>
+</resources>
